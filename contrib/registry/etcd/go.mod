@@ -1,4 +1,4 @@
-module github.com/go-kratos/kratos/contrib/registry/etcd/v2
+module github.com/ionling/kratos/contrib/registry/etcd/v2
 
 go 1.19
 
